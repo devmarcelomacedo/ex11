@@ -26,14 +26,10 @@ h1{
     border: 2px solid black;
 }
 .you {
-    text-align: right;
-    
+    text-align: right;  
 }
 .fac {
     text-align: left;
-}
-h2 {
-    text-align: right;
 }
 #red {
     color:white;
